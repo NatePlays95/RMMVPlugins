@@ -67,12 +67,13 @@
  * 
  * 
  * --TERMS OF USE--
- * This took me some work, so I'd love to be at least credited.
+ * Credits are appreciated, but not needed.
+ * If you want to edit, please contact me first.
  * You can find me at NatePlays95 on Twitter 
  * or as nate-the-bard on Tumblr and Itch.
  *
  * --COMPATIBILITY--
- * Should work with anything; this is just a script call made easier.
+ * Should work with anything, as these are just fancy script calls.
  */
 
 /*~struct~TintPresets:
